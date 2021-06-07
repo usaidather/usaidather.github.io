@@ -17,21 +17,21 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Usaid Ather",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Mobile Application Developer",
     //Line 2 For Header
-    "products, brands,",
+    "iOS and React Native.",
     //Line 3 For Header
-    "and experience",
+    "",
   ],
   //   Header Paragraph
   headerParagraph:
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "usaid.ather@gmail.com",
 
   // End Header Details -----------------------
 
