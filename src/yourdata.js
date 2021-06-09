@@ -1,10 +1,9 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
-import cssIcon from "./images/css.svg"
+import swiftIcon from "./images/swift.svg"
+import objectC from "./images/object-c.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
-import codeIcon from "./images/code.svg"
+import xcodeIcon from "./images/xcode.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -24,11 +23,11 @@ export default {
     //Line 2 For Header
     "iOS and React Native.",
     //Line 3 For Header
-    "",
+    " ",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "A Computer Science Graduate from University of Karachi, Pakistan. Having expertise in Mobile Application Development with 5+ Years of work experience in the software industry. Have developed many applications for iOS using Swift and Objective-C. I have worked extensively on Google Maps, Payment Solutions, Social Networking SDKs, App Localization and Server Side API Integrations.",
 
   //Contact Email
   contactEmail: "usaid.ather@gmail.com",
@@ -38,64 +37,64 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "A Social Media App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Developed a social media app which was a combination of other social media apps like (Facebook, Instagram, Snapchat and WhatsApp).",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/474x/24/23/6b/24236b2a777ad249ae5e6dac6fb0c5c2.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "A Social Polling App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A user can ask a different trending questions by creating new hash tags and can use previous hash tags and get an honest feedbacks from user.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/474x/24/23/6b/24236b2a777ad249ae5e6dac6fb0c5c2.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Events Booking App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Developed to launch it as product for company, handling different flavours in Android and different Targets in iOS for different Clients.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/474x/24/23/6b/24236b2a777ad249ae5e6dac6fb0c5c2.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "E-Commerce App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "An E-Commerce app to sell beauty products for middle eastern clients.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/474x/24/23/6b/24236b2a777ad249ae5e6dac6fb0c5c2.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
     {
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Appoinment Booking App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "An hospital appointment booking for one of the biggest hospital in Riyadh Saudi Arabia", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/474x/24/23/6b/24236b2a777ad249ae5e6dac6fb0c5c2.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
     {
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "Survey App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A Survey App for the employees of a company.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/474x/24/23/6b/24236b2a777ad249ae5e6dac6fb0c5c2.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
 
     /*
@@ -129,12 +128,17 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: xcodeIcon,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
-      img: cssIcon,
+      img: swiftIcon,
+      para:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    },
+    {
+      img: objectC,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
@@ -148,16 +152,10 @@ export default {
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
-    {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
+
+
+
+
   ],
 
   // End Skills Section --------------------------
