@@ -12,13 +12,13 @@ import Footer from "../components/Footer"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Portfolio Template" />
+    <SEO title="Usaid Portfolio" />
     <Header></Header>
-    <Work></Work>
+    <Footer></Footer>
     <About></About>
     <Skills></Skills>
-    <Promotion></Promotion>
-    <Footer></Footer>
+    <Work></Work>
+    {/* <Promotion></Promotion> */}
   </Layout>
 )
 
