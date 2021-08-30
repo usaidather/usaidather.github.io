@@ -43,12 +43,15 @@ const Header = () => {
             <a
               href={`mailto:${
                 data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
-              }`}
+                }`}
               className="primary-btn"
             >
               CONNECT WITH ME
             </a>
           </Fade>
+
+
+
         </div>
       </div>
     </div>

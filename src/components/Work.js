@@ -25,6 +25,8 @@ const Work = () => {
                 ></Card>
               ))}
             </Fade>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1165564497046612"
+              crossorigin="anonymous"></script>
           </div>
         </div>
       </div>

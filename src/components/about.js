@@ -22,7 +22,7 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img src={require('../images/portfolio.jpeg')} alt="about"></img>
+            <img src='https://i.ibb.co/k2nPJHV/portfolio.jpg' alt="about"></img>
           </div>
         </div>
       </div>
