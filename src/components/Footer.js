@@ -29,7 +29,7 @@ const Footer = () => {
           </div>
 
           <Fade bottom>
-            <a href="./Usaid-Ather-CV.pdf" download className="primary-btn"> Download CV  </a>
+            <a href="./Usaid_Ather_CV.pdf" download className="primary-btn"> Download CV  </a>
           </Fade>
           {/* <span>
             Made With <icon>❤</icon> by{" "}
